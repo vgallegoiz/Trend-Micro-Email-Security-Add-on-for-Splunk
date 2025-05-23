@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for full 
 
 ## 🧰 Support
 
-To report issues or request features, please open a [GitHub issue](https://github.com/your-username/your-repo/issues).
+To report issues or request features, please open a [GitHub issue](https://github.com/vgallegoiz/Trend-Micro-Email-Security-Add-on-for-Splunk/issues).
 
 
 ---
